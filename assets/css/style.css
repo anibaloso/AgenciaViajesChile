@@ -6,7 +6,10 @@
     font-weight: 400;
     font-style: normal;
 }
-
+body{
+    color: white;
+    background-color: black;
+}
 .logo{
     width: 30px;
 }
@@ -14,4 +17,12 @@
 i{
     font-size: 24px;
     color: white;
+}
+
+.btn-entero{
+    width: 100%;
+}
+
+.card img{
+    height: 150px;
 }
