@@ -7,6 +7,7 @@
 4. [Instrucciones de Configuración](#instrucciones-de-configuración)
 5. [Estructura del Proyecto](#estructura-del-proyecto)
 6. [Contacto](#contacto)
+7. [Autor](#autor)
 
 ## Introducción
 **Viajes Chile** es una aplicación web diseñada para mostrar destinos de viaje y servicios ofrecidos por Viajes Chile. Incluye un carrusel para imágenes destacadas, información sobre la empresa, destinos destacados y un formulario de contacto.
@@ -29,6 +30,7 @@
 - **Google Fonts**: Fuentes personalizadas para estilos.
 
 ## Estructura del proyecto
+```
 viajes-chile/
 │
 ├── assets/
@@ -48,6 +50,11 @@ viajes-chile/
 │
 ├── index.html
 └── README.md
+```
 
 ## Contacto
 Para cualquier consulta, por favor contáctanos a info@viajeschile.com.
+
+## Autor
+- **Nombre**:Luis Rodriguez
+- **Correo**:anibaloso@live.com
